@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "storage-aliyun",
+  "description": "keeweb storage on aliyun oss",
+  "author": {
+    "name": "ntfs32",
+    "email": "hushuang123a@gmail.com",
+    "url": "https://github.com/ntfs32"
+  },
+  "resources": {
+    "js": true,
+    "css": true
+  },
+  "licence": "",
+  "url": "https://github.com/ntfs32/storage-aliyun",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1qT5YubAwIQ74x4bR+Nt3vXJea+N/O0s4tnlTLfsQQ8CqX4ynlQ8tvf9qONaeaJyGG1xn+8XCdyS9NQ72cUrt2DdU/IhFcERmdAhpF+IwuNQi2vjeeC27U+2+Z9turxwxihKVaAiLvsQtTNo+wL1OjQH31GtbAK3KZdXi4VYmOQlSvj9Ps/ZwMKNwqyzLDPJ9LUGNcFXyl9NSBsGPLSfYRGcyLJkQE3xGJkVKQlV37LTKSnfGwTe1JuTp89c9/X9T1KXK5jAESlJzqzGU0nxTJ8/0jKVFzlIbkLlCRxc+5HWJBdrdm3bThpVmmPJtNzpPHuZrf/Vr3NG7Uk0rtwq5QIDAQAB",
+  "license": "MIT",
+  "locale": {
+    "name": "",
+    "title": ""
+  }
+}
